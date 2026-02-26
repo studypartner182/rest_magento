@@ -1,0 +1,17 @@
+[
+  {"id": 2001, "sku": "24-MB01", "name": "Joust Duffle Bag", "price": 34.0, "status": 1, "created_at": "2025-01-01T08:00:00Z", "updated_at": "2025-01-02T08:00:00Z"},
+  {"id": 2002, "sku": "24-MB02", "name": "Push It Messenger Bag", "price": 45.0, "status": 1, "created_at": "2025-01-01T09:00:00Z", "updated_at": "2025-01-03T10:00:00Z"},
+  {"id": 2003, "sku": "24-MB03", "name": "Crown Summit Backpack", "price": 38.0, "status": 1, "created_at": "2025-01-02T11:00:00Z", "updated_at": "2025-01-03T13:15:00Z"},
+  {"id": 2004, "sku": "24-WB01", "name": "Compete Track Tote", "price": 32.0, "status": 1, "created_at": "2025-01-03T09:30:00Z", "updated_at": "2025-01-04T14:00:00Z"},
+  {"id": 2005, "sku": "24-WB02", "name": "Savvy Shoulder Tote", "price": 29.0, "status": 0, "created_at": "2025-01-03T10:10:00Z", "updated_at": "2025-01-05T09:00:00Z"},
+  {"id": 2006, "sku": "24-UG01", "name": "Quest Lumaflex Band", "price": 20.0, "status": 1, "created_at": "2025-01-04T08:00:00Z", "updated_at": "2025-01-05T11:00:00Z"},
+  {"id": 2007, "sku": "24-UG02", "name": "Sprite Yoga Companion Kit", "price": 46.0, "status": 1, "created_at": "2025-01-05T08:50:00Z", "updated_at": "2025-01-06T15:40:00Z"},
+  {"id": 2008, "sku": "24-UG03", "name": "Aim Analog Watch", "price": 92.0, "status": 1, "created_at": "2025-01-06T07:30:00Z", "updated_at": "2025-01-07T08:30:00Z"},
+  {"id": 2009, "sku": "24-WG01", "name": "Daphne Full-Zip Hoodie", "price": 59.0, "status": 1, "created_at": "2025-01-06T16:00:00Z", "updated_at": "2025-01-08T13:00:00Z"},
+  {"id": 2010, "sku": "24-WG02", "name": "Nora Practice Tank", "price": 39.0, "status": 1, "created_at": "2025-01-07T08:00:00Z", "updated_at": "2025-01-09T08:10:00Z"},
+  {"id": 2011, "sku": "24-WG03", "name": "Erika Running Short", "price": 33.0, "status": 1, "created_at": "2025-01-08T09:00:00Z", "updated_at": "2025-01-10T09:40:00Z"},
+  {"id": 2012, "sku": "24-MG01", "name": "Hero Hoodie", "price": 54.0, "status": 1, "created_at": "2025-01-09T11:00:00Z", "updated_at": "2025-01-10T16:00:00Z"},
+  {"id": 2013, "sku": "24-MG02", "name": "Pierce Gym Short", "price": 35.0, "status": 1, "created_at": "2025-01-10T09:10:00Z", "updated_at": "2025-01-11T10:30:00Z"},
+  {"id": 2014, "sku": "24-MG03", "name": "Typhon Performance Fleece", "price": 60.0, "status": 1, "created_at": "2025-01-11T08:00:00Z", "updated_at": "2025-01-12T08:00:00Z"},
+  {"id": 2015, "sku": "24-UG04", "name": "Atlas Fitness Tank", "price": 22.0, "status": 1, "created_at": "2025-01-12T08:40:00Z", "updated_at": "2025-01-13T09:20:00Z"}
+]

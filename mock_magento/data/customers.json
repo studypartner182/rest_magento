@@ -1,0 +1,17 @@
+[
+  {"id": 3001, "email": "olivia.ward@example.com", "firstname": "Olivia", "lastname": "Ward", "group_id": 1, "created_at": "2025-01-01T09:00:00Z", "updated_at": "2025-01-03T09:00:00Z"},
+  {"id": 3002, "email": "liam.price@example.com", "firstname": "Liam", "lastname": "Price", "group_id": 1, "created_at": "2025-01-01T12:00:00Z", "updated_at": "2025-01-03T16:00:00Z"},
+  {"id": 3003, "email": "ava.hall@example.com", "firstname": "Ava", "lastname": "Hall", "group_id": 2, "created_at": "2025-01-02T08:00:00Z", "updated_at": "2025-01-04T10:00:00Z"},
+  {"id": 3004, "email": "noah.hughes@example.com", "firstname": "Noah", "lastname": "Hughes", "group_id": 2, "created_at": "2025-01-02T15:30:00Z", "updated_at": "2025-01-04T15:45:00Z"},
+  {"id": 3005, "email": "emma.foster@example.com", "firstname": "Emma", "lastname": "Foster", "group_id": 1, "created_at": "2025-01-03T09:00:00Z", "updated_at": "2025-01-05T08:00:00Z"},
+  {"id": 3006, "email": "elijah.bennett@example.com", "firstname": "Elijah", "lastname": "Bennett", "group_id": 3, "created_at": "2025-01-04T07:15:00Z", "updated_at": "2025-01-06T07:15:00Z"},
+  {"id": 3007, "email": "sophia.gray@example.com", "firstname": "Sophia", "lastname": "Gray", "group_id": 2, "created_at": "2025-01-04T18:00:00Z", "updated_at": "2025-01-06T12:00:00Z"},
+  {"id": 3008, "email": "james.bailey@example.com", "firstname": "James", "lastname": "Bailey", "group_id": 1, "created_at": "2025-01-05T09:20:00Z", "updated_at": "2025-01-07T14:00:00Z"},
+  {"id": 3009, "email": "mia.murphy@example.com", "firstname": "Mia", "lastname": "Murphy", "group_id": 2, "created_at": "2025-01-06T10:00:00Z", "updated_at": "2025-01-08T09:30:00Z"},
+  {"id": 3010, "email": "henry.rivera@example.com", "firstname": "Henry", "lastname": "Rivera", "group_id": 1, "created_at": "2025-01-07T08:00:00Z", "updated_at": "2025-01-09T08:00:00Z"},
+  {"id": 3011, "email": "amelia.cooper@example.com", "firstname": "Amelia", "lastname": "Cooper", "group_id": 1, "created_at": "2025-01-08T06:55:00Z", "updated_at": "2025-01-10T07:00:00Z"},
+  {"id": 3012, "email": "lucas.richardson@example.com", "firstname": "Lucas", "lastname": "Richardson", "group_id": 3, "created_at": "2025-01-09T11:00:00Z", "updated_at": "2025-01-10T11:40:00Z"},
+  {"id": 3013, "email": "isabella.cox@example.com", "firstname": "Isabella", "lastname": "Cox", "group_id": 2, "created_at": "2025-01-10T08:45:00Z", "updated_at": "2025-01-11T10:10:00Z"},
+  {"id": 3014, "email": "benjamin.howard@example.com", "firstname": "Benjamin", "lastname": "Howard", "group_id": 1, "created_at": "2025-01-11T09:35:00Z", "updated_at": "2025-01-12T12:00:00Z"},
+  {"id": 3015, "email": "charlotte.powell@example.com", "firstname": "Charlotte", "lastname": "Powell", "group_id": 2, "created_at": "2025-01-12T10:20:00Z", "updated_at": "2025-01-13T13:10:00Z"}
+]
